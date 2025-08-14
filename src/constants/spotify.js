@@ -1,6 +1,6 @@
 const MODE = import.meta.env.MODE;
 const DEV_URL = 'http://localhost:5173/';
-const PROD_URL = 'https://mewstify.vercel.app/';
+const PROD_URL = 'https://mewtify.vercel.app/';
 
 const SCOPES = [
     'user-read-email',
